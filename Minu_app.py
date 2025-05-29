@@ -4,7 +4,7 @@ import streamlit as st
 import folium
 from streamlit_folium import folium_static
 
-st.title("승민이의 미세먼지 모니터링")
+st.title("이선우의 미세먼지 모니터링")
 
 # 사이드바 - 지역 선택 기능
 st.sidebar.header("🌍 지역 선택")
