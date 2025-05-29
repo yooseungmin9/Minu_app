@@ -2,8 +2,8 @@
 Minu_app
 requirements
 
-requests
-pandas as pd
-streamlit as st
-folium
+requests\n
+pandas as pd\n
+streamlit as st\n
+folium\n
 streamlit_folium_folium_static
